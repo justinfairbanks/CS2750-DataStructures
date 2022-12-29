@@ -1,7 +1,6 @@
 # CS2750-DataStructures
-2022
 
-C++ Data Structures Projects at Northwest Nazarene University
+C++ Data Structures Projects at Northwest Nazarene University (2022)
 
 - Track and Field Scoring Program 
     - Using Classes + Objects
