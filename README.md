@@ -1,14 +1,19 @@
 # CS2750-DataStructures
+2022
 
 C++ Data Structures Projects at Northwest Nazarene University
 
-- Track and Field Scoring Program (Using Classes + Objects)
+- Track and Field Scoring Program 
+    - Using Classes + Objects
 
-- Airline Ticket Reservation Program (Double Linked List)
+- Airline Ticket Reservation Program 
+    - Doubly Linked Lists
 
-- Delimiter Matching (Stacks)
+- Delimiter Matching 
+    - Stacks
 
 - Raster Recursion 
-    - Inspired from the Eight-Queens Problem
+    - Recursive calls; Inspired from Eight Queens Problem
 
-- Big Heap Sort (Heapify/Heap Sort)
+- Big Heap Sort 
+    - Heapify and Max/Min Heap Sort
