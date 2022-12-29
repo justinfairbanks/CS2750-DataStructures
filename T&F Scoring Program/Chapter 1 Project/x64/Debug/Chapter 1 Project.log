@@ -1,0 +1,8 @@
+﻿  Source.cpp
+  eventParticipation.cpp
+  Running Code Analysis for C/C++...
+C:\Users\Justin Fairbanks\source\repos\Data Structures\Chapter 1 Project\Chapter 1 Project\Source.cpp(60): warning C6262: Function uses '34756' bytes of stack.  Consider moving some data to heap.
+C:\Users\Justin Fairbanks\source\repos\Data Structures\Chapter 1 Project\Chapter 1 Project\Source.cpp(330): warning C6262: Function uses '34756' bytes of stack.  Consider moving some data to heap.
+C:\Users\Justin Fairbanks\source\repos\Data Structures\Chapter 1 Project\Chapter 1 Project\Source.cpp(605): warning C6262: Function uses '34640' bytes of stack.  Consider moving some data to heap.
+  Generating Code...
+  Chapter 1 Project.vcxproj -> C:\Users\Justin Fairbanks\source\repos\Data Structures\Chapter 1 Project\x64\Debug\Chapter 1 Project.exe
