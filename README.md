@@ -9,6 +9,6 @@ C++ Data Structures Projects at Northwest Nazarene University
 - Delimiter Matching (Stacks)
 
 - Raster Recursion 
-    - Inspired from the Eight-Queens Problem)
+    - Inspired from the Eight-Queens Problem
 
 - Big Heap Sort (Heapify/Heap Sort)
